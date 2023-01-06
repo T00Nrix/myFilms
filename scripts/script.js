@@ -1,4 +1,4 @@
-"use strick";
+"use strict";
 
 const numberOfFilms = +prompt('Сколько фильмов вы посомтрели?', '');
 
